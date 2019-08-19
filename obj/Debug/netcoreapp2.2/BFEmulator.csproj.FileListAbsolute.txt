@@ -1,0 +1,11 @@
+D:\projects\dotnet\BFEmulator\bin\Debug\netcoreapp2.2\BFEmulator.deps.json
+D:\projects\dotnet\BFEmulator\bin\Debug\netcoreapp2.2\BFEmulator.runtimeconfig.json
+D:\projects\dotnet\BFEmulator\bin\Debug\netcoreapp2.2\BFEmulator.runtimeconfig.dev.json
+D:\projects\dotnet\BFEmulator\bin\Debug\netcoreapp2.2\BFEmulator.dll
+D:\projects\dotnet\BFEmulator\bin\Debug\netcoreapp2.2\BFEmulator.pdb
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.csprojAssemblyReference.cache
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.AssemblyInfoInputs.cache
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.AssemblyInfo.cs
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.dll
+D:\projects\dotnet\BFEmulator\obj\Debug\netcoreapp2.2\BFEmulator.pdb
